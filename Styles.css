@@ -1,0 +1,92 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  font-family: 'Arial', serif;
+}
+
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bottom-logo{
+  position: absolute;
+  left: 420px;
+  width:70px;
+  height:70px;
+}
+
+.top-logo{
+  position: relative;
+  left: 150px;
+  width:70px;
+  height:70px;
+}
+
+.Photo{
+  width:350px;
+  height:350px;
+  position:relative;
+  top: 60px;
+}
+
+.middle-container{
+  position: relative;
+  top: 20px;
+}
+
+.bottom-container{
+  position: relative;
+  top: 40px;
+  padding-bottom: 10px;
+}
+
+.AMA{
+  text-align: center;
+  width:300px;
+  height:200px;
+}
+
+.Record{
+  text-align: center;
+  width:300px;
+  height:200px;
+}
+
+.Website{
+  background: #af34c2;
+  background-image: -webkit-linear-gradient(top, #af34c2, #502bb8);
+  background-image: -moz-linear-gradient(top, #af34c2, #502bb8);
+  background-image: -ms-linear-gradient(top, #af34c2, #502bb8);
+  background-image: -o-linear-gradient(top, #af34c2, #502bb8);
+  background-image: linear-gradient(to bottom, #af34c2, #502bb8);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.Website:hover {
+  background: #6f3cfc;
+  background-image: -webkit-linear-gradient(top, #6f3cfc, #3498db);
+  background-image: -moz-linear-gradient(top, #6f3cfc, #3498db);
+  background-image: -ms-linear-gradient(top, #6f3cfc, #3498db);
+  background-image: -o-linear-gradient(top, #6f3cfc, #3498db);
+  background-image: linear-gradient(to bottom, #6f3cfc, #3498db);
+  text-decoration: none;
+}
